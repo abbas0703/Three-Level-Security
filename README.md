@@ -50,15 +50,15 @@ This project is a user registration and login system built with Go, MongoDB, and
   ```
 6. Access the application at http://localhost:8080.
 
-###Usage
+### Usage
 
--**Registration**: Visit /register to create a new account. Enter your desired username, password, and the CAPTCHA code displayed.
+- **Registration**: Visit /register to create a new account. Enter your desired username, password, and the CAPTCHA code displayed.
 
--**Login**: Visit /login to log into your account. After entering your username, password, and CAPTCHA code, an email notification will be sent to your registered email address upon successful login.
+- **Login**: Visit /login to log into your account. After entering your username, password, and CAPTCHA code, an email notification will be sent to your registered email address upon successful login.
 
--**Main Page**: After logging in, you will be redirected to the main page, where you can see a welcome message.
+- **Main Page**: After logging in, you will be redirected to the main page, where you can see a welcome message.
 
-##Output:
+## Output:
 
 ![Screenshot 2024-08-21 230837](https://github.com/user-attachments/assets/22e40461-807a-4e98-a69e-a9999dd38ec3)
 
@@ -67,7 +67,7 @@ This project is a user registration and login system built with Go, MongoDB, and
 MongoDB
 ![Screenshot 2024-08-21 231011](https://github.com/user-attachments/assets/12399258-c9c3-4260-b4cb-d43be23946ae)
 
-##Contributing
+## Contributing
 
 Feel free to fork this repository, create a branch, and submit a pull request with your enhancements or bug fixes.
 
